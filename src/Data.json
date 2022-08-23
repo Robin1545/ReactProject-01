@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Robin Hossen",
+    "age": "17",
+    "class": "Elaven",
+    "mobile": [{ "home": "11111111111", "office": "11111111111" }]
+  },
+  {
+    "name": "Faysal Ahmed",
+    "age": "19",
+    "class": "Honours 1st Year",
+    "mobile": [{ "home": "22222222222", "office": "22222222222" }]
+  },
+  {
+    "name": "Tarek Rahman",
+    "age": "16",
+    "class": "Ten",
+    "mobile": [{ "home": "33333333333", "office": "33333333333" }]
+  }
+]

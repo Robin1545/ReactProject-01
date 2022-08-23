@@ -1,0 +1,47 @@
+.form {
+  width: 682px;
+  background-color: #333;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 0.6rem;
+  margin-bottom: 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+label {
+  font-size: larger;
+  font-weight: bold;
+}
+.pTag {
+  font-weight: bold;
+  margin: 20px;
+}
+input {
+  border: none;
+  border-radius: 0.6rem;
+  color: black;
+  padding: 10px;
+  width: 280px;
+}
+textarea {
+  border: none;
+  border-radius: 0.6rem;
+  padding: 10px;
+  width: 280px;
+}
+button {
+  border: none;
+  border-radius: 0.6rem;
+  cursor: pointer;
+  padding: 8px;
+  margin-left: 185px;
+  font-size: 17px;
+  background-color: white;
+}
+
+.form button:hover {
+  background-color: orange;
+  color: white;
+}
